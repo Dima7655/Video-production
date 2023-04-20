@@ -19,6 +19,10 @@
 .menu__item:last-child{
 margin-right: 0;
 }
+.menu__item-link{
+    font-size:14px;
+    font-weight:400;
+}
 .contacts__telephone{
     font-size: 26px;
     font-weight: 400;
