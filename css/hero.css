@@ -37,7 +37,7 @@
     margin-right: 0;
 }
 .hero__img{
-    width: 20%;
+    width: 26%;
     display: block;
 }
 .hero__list{
@@ -45,6 +45,9 @@
 }
 .hero__list-three{
     color: black;
+    font-size:32px;
+    font-weight:700;
+    
 }
 .humans{
     font-weight: 400;
