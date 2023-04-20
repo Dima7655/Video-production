@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 92px;
+    margin-bottom: 60px;
+}
+.container__footer{
+    border-top: 4px solid #292626;
+}
+.contacts__work--footer{
+    color:#9A9A9A ;
+    text-decoration: none;
+}

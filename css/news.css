@@ -1,0 +1,41 @@
+.news__sale{
+    font-weight: 800;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.news__list{
+    display: flex;
+    margin-bottom: 60px;
+}
+.news__item-content{
+    padding: 46px;
+    display: flex;
+    flex-direction: column;
+
+}
+.news__item{
+    background: url(../img/camera.png) no-repeat;
+    min-height: 394px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.news__wedding{
+    background: url(../img/wedding.png) no-repeat;
+}
+.news__item:last-child{
+    margin-right: 0;
+}
+.news__data{
+    margin-bottom: 15px;
+}
+.news__clip{
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.news__new-year{
+    font-size: 16px;
+}

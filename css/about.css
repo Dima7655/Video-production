@@ -1,0 +1,33 @@
+.about__list{
+    position: relative;
+    margin-bottom: 53px;
+}
+
+.about__item-one{
+    
+    background: url(../img/cameraman.png)no-repeat;
+    min-height: 552px;
+}
+.about__item-two{
+    color: black;
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    background: #fff;
+    min-height: 455px;
+    width: 785px;
+    border-radius: 5px;
+    padding: 70px 80px;
+}
+.about__title{
+    font-weight: 800;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.about__subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 60px;
+}

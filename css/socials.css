@@ -1,0 +1,24 @@
+.socials{
+    display: flex;
+}
+.socials__item{
+    margin-right: 10px;
+}
+.socials__item:last-child{
+    margin-right: 0;
+}
+
+.logo{
+    margin-right: 100px;
+}
+.socials__svg{
+    width: 36px;
+    height: 36px;
+    fill: rgb(76, 76, 76);
+}
+
+.socials__svg:hover{
+    fill: rgb(179, 179, 179);
+    stroke: aquamarine  ; 
+    stroke-width: 5px;
+}
