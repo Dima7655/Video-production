@@ -9,7 +9,7 @@
     margin-bottom: 60px;
 }
 .news__item-content{
-    padding: 46px;
+    padding: 22px 34px;
     display: flex;
     flex-direction: column;
 
@@ -17,8 +17,9 @@
 .news__item{
     background: url(../img/camera.png) no-repeat;
     min-height: 394px;
-    margin-right: 25px;
+    margin-right: 20px;
     display: flex;
+    flex:1;
     flex-direction: column;
     justify-content: flex-end;
 }
