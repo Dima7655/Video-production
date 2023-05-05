@@ -80,7 +80,7 @@
 
 .services__item{
     display: flex;
-    flex: 1;
+  
     margin-bottom: 50px;
 }
 .services__item:last-child{
