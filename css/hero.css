@@ -78,7 +78,7 @@
     text-transform: uppercase;
 }
 
-.services__item{
+.services__list{
     display: flex;
   
     margin-bottom: 50px;
