@@ -32,5 +32,10 @@ a{
     background: url(../img/hero.png)center top no-repeat ,url(../img/bottom-pic.png)right bottom 300px no-repeat #17191C;
     min-width: 1142px;
     overflow: hidden;
+    
    
+}
+
+.wrapper__services{
+    background: url(../img/top-line.png)center top no-repeat;
 }
