@@ -78,14 +78,7 @@
     text-transform: uppercase;
 }
 
-.services__list{
-    display: flex;
-  
-    margin-bottom: 50px;
-}
-.services__item:last-child{
-    margin-bottom: 70px;
-}
+
 .wrapper__image{
     margin-right: 58px;
 }
