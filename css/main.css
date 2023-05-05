@@ -29,6 +29,7 @@ a{
 }
 .wrapper{
     overflow:hidden;
+    min-width:1142px;
 }
 .main__wrapper {
     background: url(../img/hero.png)center top no-repeat ,url(../img/bottom-pic.png)right bottom 300px no-repeat #17191C;
