@@ -33,8 +33,7 @@ a{
 }
 .main__wrapper {
     background: url(../img/hero.png)center top no-repeat ,url(../img/bottom-pic.png)right bottom 300px no-repeat #17191C;
-    min-width: 1142px;
-    overflow: hidden;
+    
     
    
 }
