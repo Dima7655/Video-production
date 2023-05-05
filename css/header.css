@@ -44,3 +44,22 @@ margin-right: 0;
 .menu__item-link:hover{
    color: #FF3D00;
 } 
+
+.services__list{
+    display: flex;
+    align-items: center;
+    color: #9A9A9A;
+    margin-bottom: 50px;
+    
+}
+.services__item--active{
+    color: #fff;
+}
+.services__item:after{
+    content: "/";
+    
+}
+.services__item:last-child:after{
+    
+    display: none;
+}
